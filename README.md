@@ -41,10 +41,10 @@ Coming soon! Check back for highlights of my best work.
 
 Feel free to reach out if you'd like to collaborate, discuss tech, or just say hello!
 
-- 📧 Email: [your.email@example.com](mailto:vivrkrajbr4808@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vivek-raj-ba2057266/)
+- 📧 Email: [vivek raj](mailto:vivrkrajbr4808@gmail.com)
+- 🔗 LinkedIn: [vivek raj](https://www.linkedin.com/in/vivek-raj-ba2057266/)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Portfolio: [yourportfolio.com](https://paul7297.github.io/mportfollio/)
+- 🌐 Portfolio: [portfolio](https://paul7297.github.io/mportfollio/)
 
 ## ⭐ Support
 
